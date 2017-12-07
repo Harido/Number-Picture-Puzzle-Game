@@ -254,7 +254,7 @@ package PicturePuzzleGame;
 			}//end of if statement	
 		}//end of action listener
 		
-		//this part of the copde is the function of new game so that it can resart the game
+		//this part of the code is the function of new game so that it can restart the game
 		public class newGameAction implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent evt) {
